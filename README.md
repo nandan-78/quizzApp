@@ -15,4 +15,4 @@
                                  
                                  YOU CAN OPEN THIS QUIZ PROJECT ON ANY DEVICE USING THIS LIVE LINK
                                  
-                                 LINK :- 
+                                 LINK :- https://nandan-78.github.io/quizzApp/
